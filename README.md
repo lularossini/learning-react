@@ -31,6 +31,6 @@ Space to learn react, javascript and other things
 ## github
 - pr
 
-### Con esto sabrias mas que el 98% de los diseñadores de mundo
+
 
 
